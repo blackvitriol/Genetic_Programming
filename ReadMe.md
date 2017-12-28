@@ -1,8 +1,7 @@
 # Genetic Programming 
-<a>
-    <img src="https://github.com/blackvitriol/github/blob/master/images/GA.png?raw=true" align="center />
-</a>
-
+<p  align="center">
+    <img src="https://github.com/blackvitriol/github/blob/master/images/GA.png?raw=true"/>
+</p>
 
 *Welcome !* This repository contains work related to programming using [Genetic](https://en.wikipedia.org/wiki/Genetic_programming) and Evolutionary Strategies.  Check it out if you are new to this concept.
 
