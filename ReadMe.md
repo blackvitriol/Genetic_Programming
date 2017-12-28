@@ -1,6 +1,6 @@
 # Genetic Programming 
 <a>
-    <img src="https://github.com/blackvitriol/github/blob/master/images/GA.png?raw=true" width="40" height="40" align="center />
+    <img src="https://github.com/blackvitriol/github/blob/master/images/GA.png?raw=true" align="center />
 </a>
 
 
