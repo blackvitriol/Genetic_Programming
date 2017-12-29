@@ -53,7 +53,7 @@ blah bla blah
 This is a tree based genetic algorithm that accepts a string from a user. This string is parsed and a fitness goal is defined for evaluation. The initial population is defined as all ASCII characters including numbers, alphabets and symbols in a sequential manner. The program then performs genetic operations on the first generation, with the fitness score as its function. After several evolutions of the generations, where the strings with the highest fitness are allowed to exist, the program converges on a generation that resembles the goal.
 
 <p  align="center">
-    <img src="https://raw.githubusercontent.com/blackvitriol/github/master/images/GA.webm"/>
+    <img src="https://github.com/blackvitriol/github/blob/master/images/HW.gif"/>
 </p>
 
 ## Requirements
