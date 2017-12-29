@@ -26,10 +26,12 @@ Need info? Check the [Wiki (GP)](https://en.wikipedia.org/wiki/Genetic_programmi
 
 ## Getting Started
 
-lorem ipsum
+
 
 
 ### Introduction
+
+
 
 code:
 
@@ -39,7 +41,20 @@ blah bla blah
 
 ## Working
 
-### Terminal
+- Generate an initial, stochastic population.
+- Iteratively perform selection, genetic operation, and evaluation:
+    - Evaluate each program (hypothesis) in the current population against the given dataset and determine how well it performed, the value recorded as a fitness score.
+    - Randomly select programs and compare their fitness scores.
+    - Apply one of three genetic operators to a copy of the leading program: reproduction; mutation; crossover… then move the program into the subsequent generation.
+    - Evaluate all programs (hypotheses) in each new generation.
+- Repeat until the user-defined termination criteria are met.
+
+### Hello World Terminal:
+This is a tree based genetic algorithm that accepts a string from a user. This string is parsed and a fitness goal is defined for evaluation. The initial population is defined as all ASCII characters including numbers, alphabets and symbols in a sequential manner. The program then performs genetic operations on the first generation, with the fitness score as its function. After several evolutions of the generations, where the strings with the highest fitness are allowed to exist, the program converges on a generation that resembles the goal.
+
+<p  align="center">
+    <img src="https://raw.githubusercontent.com/blackvitriol/github/master/images/GA.webm"/>
+</p>
 
 ## Requirements
 
