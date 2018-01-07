@@ -1,6 +1,6 @@
 # NEAT
 
-[![Click to watch on Youtube](https://www.youtube.com/watch?v=3ug_i_tU-Uc "Click to watch on Youtube")]
+[![Click to watch on Youtube](https://img.youtube.com/vi/3ug_i_tU-Uc/0.jpg)](https://www.youtube.com/watch?v=3ug_i_tU-Uc)
 
 *Welcome !* NEAT stands for NeuroEvolution through Augmenting Topologies. This means that we are changing a neural network's structure using a genetic algorithm.
 
