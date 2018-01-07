@@ -70,13 +70,8 @@ This project is made available under the [MIT License](http://www.opensource.org
 This project is powered by:
 
 <a href="https://github.com/TASVideos/BizHawk">
-    <img src="http://adelikat.tasvideos.org/corphawk_logo.jpg" width="40" height="40" />
-</a>
-
-<a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png" width="40" height="40" />
-</a>
-
-<a>
-    <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="40" height="40" />
+    <img src="http://adelikat.tasvideos.org/corphawk_logo.jpg" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png" width="40" height="40">
+    <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="40" height="40">
+ <img src="http://johfrael.nl/wiki/images/1/12/Ubuntu_16.04_Logo.jpg" width="140" height="40">   
 </a>
