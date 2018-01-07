@@ -74,5 +74,9 @@ This project is powered by:
 </a>
 
 <a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png" width="100" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png" width="40" height="40" />
+</a>
+
+<a>
+    <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="40" height="40" />
 </a>
