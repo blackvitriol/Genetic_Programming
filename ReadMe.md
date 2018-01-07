@@ -58,6 +58,7 @@ This is a tree based genetic algorithm that accepts a string from a user. This s
 
 ## Requirements
 
+
 ## License
 This project is made available under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
@@ -68,17 +69,10 @@ This project is made available under the [MIT License](http://www.opensource.org
 
 This project is powered by:
 
-<a href="https://www.jetbrains.com/idea/">
-    <img src="https://github.com/Hexworks/zircon/blob/master/images/idea_logo.png" width="40" height="40" />
-</a>
-<a href="https://kotlinlang.org/">
-    <img src="https://github.com/Hexworks/zircon/blob/master/images/kotlin_logo.png" width="40" height="40" />
-</a>
-<a href="http://serpent.ai/">
-    <img src="http://assets.serpent.ai/serpent_landing.png" width="100" height="40" />
+<a href="https://github.com/TASVideos/BizHawk">
+    <img src="http://adelikat.tasvideos.org/corphawk_logo.jpg" width="40" height="40" />
 </a>
 
-
-
-*add: python and DEAP
-
+<a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png" width="100" height="40" />
+</a>
